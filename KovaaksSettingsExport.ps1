@@ -20,7 +20,7 @@ $fixedHeight = 100
 $proc = Get-Process | Where-Object { $_.MainWindowTitle -like "*KovaaK*" -and $_.Path -like "*steam*" } | Sort-Object CPU -Descending | Select-Object -First 1
 $baseaddr = $proc.MainModule.BaseAddress
 #$addrmap = @(
-#	@{ name = "proccesPath"; value = $proc.Path }
+#	@{ name = "processPath"; value = $proc.Path }
 #	@{ name = "PID"; value = $proc.Id }
 #	@{ name = "RAM"; value = "{0:N2} MB " -f ($proc.WorkingSet64 / 1MB) }
 #)
