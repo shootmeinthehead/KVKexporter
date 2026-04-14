@@ -3,6 +3,7 @@ A simple script in development state, meaning more things will be added. The scr
 
 This script is open-source so if there are any worries, you can compile the .ps1 script to an .exe from the source code .ps1 script in the main branch of this repo!
 
-Now OFFICIALLY verified by kovaaks's staff: <img width="1489" height="882" alt="image" src="https://github.com/user-attachments/assets/a3eda205-7881-43b5-bf6e-a9ddc897c1b2" />
+Now OFFICIALLY verified by kovaaks's staff: <img width="1493" height="958" alt="image" src="https://github.com/user-attachments/assets/3c3a9bdc-b995-4020-bb36-4c6d9db09569" />
+
 
 Also there are false-detections of the .exe/script, because there is an elevation check for privileges & the script tracks parts of Kovaak's game process! Example: <img width="1818" height="748" alt="image" src="https://github.com/user-attachments/assets/b8fd76b4-446c-48ce-8ba7-aa92811640e1" />
